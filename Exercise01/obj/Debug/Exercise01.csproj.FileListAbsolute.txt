@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\technobrain\Exercise01\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\HP\Documents\technobrain\Exercise01\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\HP\Documents\technobrain\Exercise01\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\HP\Documents\technobrain\Exercise01\Exercise01\obj\Debug\Exercise01.csprojAssemblyReference.cache
+C:\Users\HP\Documents\technobrain\Exercise01\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\HP\Documents\technobrain\Exercise01\Exercise01\obj\Debug\Exercise01.pdb
